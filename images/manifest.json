@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 682,
+    "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s/canvas/",
+    "label" : {
+      "none" : [ "Pal.lat.1375_0031_fa_0011r_s" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 22,
+              "height" : 34
+            }, {
+              "width" : 43,
+              "height" : 67
+            }, {
+              "width" : 86,
+              "height" : 133
+            }, {
+              "width" : 171,
+              "height" : 266
+            }, {
+              "width" : 341,
+              "height" : 531
+            }, {
+              "width" : 682,
+              "height" : 1062
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 682,
+            "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1062
+          } ],
+          "format" : "image/jpeg",
+          "width" : 682,
+          "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1062
+        },
+        "target" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0031_fa_0011r_s/canvas/"
+      } ]
+    } ],
+    "height" : 1062
+  }, {
     "width" : 700,
     "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/images/Pal.lat.1375_0024_fa_0008v_s/canvas/",
     "label" : {
