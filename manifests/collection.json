@@ -1,0 +1,13 @@
+{
+  "id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in AnaisMazoue/DigitalExhbitionPalLat1375 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/manifests/pallatmanifest.json",
+    "label" : "PalLat1375"
+  } ]
+}
