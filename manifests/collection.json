@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/manifests/vaticanmanifest.json",
     "label" : "PalLat1375"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://AnaisMazoue.github.io/DigitalExhbitionPalLat1375/manifests/pallat1375manifest.json",
+    "label" : "PalLat1375"
   } ]
 }
